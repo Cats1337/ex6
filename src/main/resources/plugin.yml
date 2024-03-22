@@ -1,0 +1,5 @@
+name: BattleKingdom
+version: '${project.version}'
+main: io.github.cats1337.battlekingdom.BattleKingdom
+api-version: '1.20'
+authors: [Cats1337]

@@ -1,0 +1,36 @@
+DUNGEON : true # kick on death
+DUNGEON_TIME: 24 # in hours
+DUNGEON_MESSAGE: "Your king has fallen, you have been sent to the dungeon." # tempban message
+teams:
+  TEAM1:
+    displayname: Earth
+    color: GREEN
+    leader: null
+    world: world
+    x: 0.0
+    y: 90.0
+    z: 0.0
+  TEAM2:
+    displayname: Water
+    color: BLUE
+    leader: null
+    world: world
+    x: 0.0
+    y: 90.0
+    z: 0.0
+  TEAM3:
+    displayname: Fire
+    color: RED
+    leader: null
+    world: world
+    x: 0.0
+    y: 90.0
+    z: 0.0
+  TEAM4:
+    displayname: Air
+    color: YELLOW
+    leader: null
+    world: world
+    x: 0.0
+    y: 90.0
+    z: 0.0
